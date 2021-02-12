@@ -32,4 +32,4 @@ class testscenerios:
 
 
 run = testscenerios()
-run.startsipp()
+run.sipp_start()
